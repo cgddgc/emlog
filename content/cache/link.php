@@ -1,0 +1,1 @@
+<?php exit;//a:3:{i:0;a:3:{s:4:"link";s:5:"emlog";s:3:"url";s:20:"http://www.emlog.net";s:3:"des";s:17:"emlog官方主页";}i:1;a:3:{s:4:"link";s:18:"免费翻墙工具";s:3:"url";s:19:"http://ss.cgddgc.cn";s:3:"des";s:36:"世界辣么大，不想去看看？";}i:2;a:3:{s:4:"link";s:30:"建设中的论坛，半成品";s:3:"url";s:20:"http://bbs.cgddgc.cn";s:3:"des";s:12:"没什么的";}}

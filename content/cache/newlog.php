@@ -1,0 +1,1 @@
+<?php exit;//a:1:{i:0;a:2:{s:3:"gid";i:4;s:5:"title";s:40:"nginx下emlog5.3.1适用的rewrite规则";}}

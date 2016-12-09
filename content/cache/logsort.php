@@ -1,0 +1,1 @@
+<?php exit;//a:1:{i:4;a:3:{s:4:"name";s:11:"Linux相关";s:2:"id";s:1:"1";s:5:"alias";s:5:"Linux";}}
